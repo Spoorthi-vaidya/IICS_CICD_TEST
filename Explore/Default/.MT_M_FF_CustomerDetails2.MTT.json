@@ -75,9 +75,12 @@
       "repoInfo" : {
         "repoHandle" : "01C5KN17000000000002"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
-        "description" : "CHANGED AT 4:30PPPPPPMMM",
+        "description" : "THIS IS CHECKOUT EXAMPLE TEST",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
