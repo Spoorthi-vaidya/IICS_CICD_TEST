@@ -75,10 +75,7 @@
       "repoInfo" : {
         "repoHandle" : "01C5KN17000000000002"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "tag2-JUNE24--Main Mapping",
         "contentType" : "JSON",
