@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "9LVnr7YJktac0KB2445gCd",
+    "id" : "30XdOtGtCLnclANrAYMz4C",
     "name" : "MT_M_FF_CustomerDetails3",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01C5KN0Z000000000004"
+        "repoHandle" : "01C5KN0Z000000000009"
       },
       "contextAttributes" : [ {
         "name" : "id",

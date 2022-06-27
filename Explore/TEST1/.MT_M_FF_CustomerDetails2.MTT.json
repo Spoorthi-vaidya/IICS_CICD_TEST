@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "9LVnr7YJktac0KB2445gCd",
-    "name" : "MT_M_FF_CustomerDetails3",
+    "id" : "aLE15AQdrlgiDY3XhRV2gL",
+    "name" : "MT_M_FF_CustomerDetails2",
     "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01C5KN0Z000000000004"
+        "repoHandle" : "01C5KN0Z000000000008"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "\r\nIM Changed--2nddd Commit",
         "contentType" : null,
         "documentState" : "VALID"
       }
