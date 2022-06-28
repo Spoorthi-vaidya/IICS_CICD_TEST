@@ -16,8 +16,8 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "new cust mapping in sprint1",
-        "contentType" : null,
+        "description" : "Changes 1:45 PM",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
