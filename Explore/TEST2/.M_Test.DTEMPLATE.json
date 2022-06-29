@@ -17,8 +17,8 @@
       } ],
       "additionalInfo" : {
         "description" : "IM Changed--1 Commit",
-        "contentType" : null,
-        "documentState" : "VALID"
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
       }
     }
   },
