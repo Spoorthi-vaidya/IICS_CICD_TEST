@@ -16,8 +16,8 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "JULY 4----CHANGES--commit",
-        "contentType" : null,
+        "description" : "JULY 6----CHANGES--without commit",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
