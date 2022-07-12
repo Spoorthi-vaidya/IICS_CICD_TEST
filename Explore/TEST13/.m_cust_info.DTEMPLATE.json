@@ -16,8 +16,8 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "customer information",
-        "contentType" : null,
+        "description" : "july 12 - 5:45",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
