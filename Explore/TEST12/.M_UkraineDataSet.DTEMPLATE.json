@@ -16,9 +16,9 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Changed Code--- NOT CHECKIN",
+        "description" : "Changed Code---INVALID MAPPING",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },
