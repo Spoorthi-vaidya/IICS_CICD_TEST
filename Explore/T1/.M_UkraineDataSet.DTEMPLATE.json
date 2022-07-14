@@ -16,9 +16,9 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Changed Code---INVALID MAPPING",
-        "contentType" : null,
-        "documentState" : "INVALID"
+        "description" : "Made Valid",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
       }
     }
   },
