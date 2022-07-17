@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "aIjKUOtWnLkiluJh0AYykz",
+    "name" : "TF_1",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "wM2AeFz7M1reAFL-gt-20188237-2022-07-17T15:11:57.369Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ {
+    "id" : "5pQelnPxiach8nOERoAKEb",
+    "name" : "MT_M_FF_CustomerDetails",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01C5KN0Z00000000001U"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "changed-29 June",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/PRJ_TEST2/TEST1"
+  } ]
+}
