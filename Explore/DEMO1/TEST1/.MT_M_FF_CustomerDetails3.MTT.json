@@ -16,8 +16,8 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : null,
+        "description" : "Changes July21",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
